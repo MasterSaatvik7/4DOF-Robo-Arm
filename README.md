@@ -31,6 +31,11 @@ The robotic arm is programmed with the following logic:
 - Delays between servo actions ensure smooth transitions and avoid jerky motions.
 - Movement patterns are hardcoded, and there is an alternating pattern for smoother transitions during repetitive tasks.
 
+### Testing GIF
+Check out the movement of the robotic arm in action:
+
+![Robotic Arm Testing](https://github.com/MasterSaatvik7/4DOF-Robo-Arm/blob/main/TestingGIF.gif)
+
 ### Notes
 - The provided code is specific to the project and hardcoded for the arm's designed movements.
 - This project does not yet include a smartphone interface for control, but future implementations can add remote control features using Bluetooth or Wi-Fi.
