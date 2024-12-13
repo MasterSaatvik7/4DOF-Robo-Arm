@@ -14,7 +14,7 @@ The concept of this project was inspired by the **"DIY Arduino Robot Arm with Sm
 ### Components Used
 - **Arduino UNO**
 - **SG90 Servo Motors (x2)**
-- - **MG995 Servo Motors (x2)**
+- **MG995 Servo Motors (x2)**
 - **Nema 17 Stepper Motor**
 - **L298N Motor Driver** for stepper motor control
 - **Jumper Wires, Breadboard**, and other necessary accessories
